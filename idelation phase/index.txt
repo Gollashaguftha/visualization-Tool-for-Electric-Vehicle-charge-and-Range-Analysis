@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>EV Charge & Range Analysis</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <h2>EV Sales Over Years</h2>
+  <canvas id="evChart" width="400" height="200"></canvas>
+  <script src="script.js"></script>
+</body>
+</html>
